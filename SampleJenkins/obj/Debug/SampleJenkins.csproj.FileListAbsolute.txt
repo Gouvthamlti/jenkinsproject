@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\SampleJenkins\SampleJenkins\bin\Debug\SampleJenkins.exe.config
+C:\Users\Lenovo\source\repos\SampleJenkins\SampleJenkins\bin\Debug\SampleJenkins.exe
+C:\Users\Lenovo\source\repos\SampleJenkins\SampleJenkins\bin\Debug\SampleJenkins.pdb
+C:\Users\Lenovo\source\repos\SampleJenkins\SampleJenkins\obj\Debug\SampleJenkins.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SampleJenkins\SampleJenkins\obj\Debug\SampleJenkins.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SampleJenkins\SampleJenkins\obj\Debug\SampleJenkins.exe
+C:\Users\Lenovo\source\repos\SampleJenkins\SampleJenkins\obj\Debug\SampleJenkins.pdb
